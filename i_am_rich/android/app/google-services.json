@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "701421472526",
+    "firebase_url": "https://snapmarshmallow.firebaseio.com",
+    "project_id": "snapmarshmallow",
+    "storage_bucket": "snapmarshmallow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701421472526:android:007152abff1afc7387655f",
+        "android_client_info": {
+          "package_name": "co.fishyboat.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701421472526-ajdirjrpdb6utl2trnutk78s597dvu4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLduVMHsIxxGQ5tfWPGF8jjLo-MqQI-uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701421472526-ajdirjrpdb6utl2trnutk78s597dvu4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701421472526:android:c176beac9816524e87655f",
+        "android_client_info": {
+          "package_name": "co.fishyboat.iamrich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701421472526-ajdirjrpdb6utl2trnutk78s597dvu4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLduVMHsIxxGQ5tfWPGF8jjLo-MqQI-uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701421472526-ajdirjrpdb6utl2trnutk78s597dvu4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

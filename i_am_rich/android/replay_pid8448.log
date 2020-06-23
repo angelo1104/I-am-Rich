@@ -1,0 +1,6 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 105 ciObject found
+ciMethod java/util/regex/Matcher match (II)Z 897 17921 983 0 -1
+ciMethodData java/util/regex/Matcher match (II)Z 2 19648 orig 264 8 206 170 103 0 0 0 0 160 29 43 20 0 0 0 0 80 2 0 0 168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 192 8 0 0 57 27 0 0 1 32 2 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 15 0 2 0 0 0 248 0 0 0 255 255 255 255 7 0 11 0 0 0 0 0 data 31 0xb0007 0x367 0x38 0x0 0xf0003 0x0 0x18 0x1e0007 0x0 0x38 0x367 0x220003 0x367 0x18 0x340007 0x366 0x38 0x4400 0x410003 0x4400 0xffffffffffffffe0 0x56c005 0x5 0x1661d0c0 0x34e 0x1661d170 0x17 0x5b0007 0x36 0x20 0x334 oops 2
